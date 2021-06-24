@@ -22,9 +22,16 @@ or
 move "name"      //the game will automatically run the dice for you
 
 An axample of running the game :
+
 add player giannis
+
 add player kostas
+
 Start
+
 move giannis
+
 move kostas
+
 move giannis
+
