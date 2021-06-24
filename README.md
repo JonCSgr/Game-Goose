@@ -15,8 +15,16 @@ add player "name"
 
 Start
 
-move "name" x, y // where x, y are numbers
+move "name" x, y      // where x, y are numbers
 
 or 
 
-move "name" //the game will automatically run the dice for you
+move "name"      //the game will automatically run the dice for you
+
+An axample of running the game :
+add player giannis
+add player kostas
+Start
+move giannis
+move kostas
+move giannis
